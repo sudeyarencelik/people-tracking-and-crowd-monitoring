@@ -1,5 +1,6 @@
 # -People-Tracking-and-Crowd-Monitoring-System-Using-YOLO11-and-BoT-SORT
 # People Tracking and Crowd Monitoring System
+<img width="1595" height="898" alt="image" src="https://github.com/user-attachments/assets/5106b065-da88-4de7-9da2-9ea2c394cb6c" />
 
 This project is a people tracking and crowd monitoring system developed using **YOLO11**, **BoT-SORT**, and **OpenCV**.
 
